@@ -1,0 +1,3 @@
+/home/niujh/games101/pa2/build/CMakeFiles/rebuild_cache.dir
+/home/niujh/games101/pa2/build/CMakeFiles/edit_cache.dir
+/home/niujh/games101/pa2/build/CMakeFiles/Rasterizer.dir

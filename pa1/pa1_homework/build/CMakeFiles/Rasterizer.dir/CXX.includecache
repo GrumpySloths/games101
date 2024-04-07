@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/niujh/games101/pa1/pa1_homework/Triangle.hpp
+eigen3/Eigen/Eigen
+-
+
+/home/niujh/games101/pa1/pa1_homework/main.cpp
+Triangle.hpp
+/home/niujh/games101/pa1/pa1_homework/Triangle.hpp
+rasterizer.hpp
+/home/niujh/games101/pa1/pa1_homework/rasterizer.hpp
+eigen3/Eigen/Eigen
+-
+iostream
+-
+opencv2/opencv.hpp
+-
+
+/home/niujh/games101/pa1/pa1_homework/rasterizer.hpp
+Triangle.hpp
+/home/niujh/games101/pa1/pa1_homework/Triangle.hpp
+algorithm
+-
+eigen3/Eigen/Eigen
+-
+
